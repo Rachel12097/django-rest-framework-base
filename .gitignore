@@ -1,0 +1,32 @@
+# Intellij
+.idea/
+
+# Mac
+.DS_Store
+
+# Dependency directories
+node_modules/
+
+# Env
+venv
+env
+staticfiles
+.env
+
+# NPM
+package-lock.json
+
+# Others
+.vscode/
+tmp/
+temp/
+__pycache__
+/pictures
+*.db
+static/
+celerybeat.pid
+celerybeat-schedule
+dump.rdb
+
+# Local Config
+config.json
